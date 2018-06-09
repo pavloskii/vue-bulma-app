@@ -53,7 +53,7 @@ export default {
   margin-top: 10px !important
   color: gray
 
-.columns
-  flex-wrap: wrap
+// .columns
+//   flex-wrap: wrap
 
 </style>
